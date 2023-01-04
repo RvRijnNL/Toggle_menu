@@ -1,0 +1,62 @@
+li {
+    list-style: none;
+    }
+
+.color-menu {
+    display: block;
+    width: 20%;
+    height: 100%;
+    margin-left: -48px;
+    visibility: hidden;
+    
+}
+
+.navPhoto{
+width: 40px;
+display: block;
+cursor: pointer;
+
+}
+
+
+.color1 {
+    background-color: lightgreen;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+}
+.color2 {
+    background-color: lightblue;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+}
+.color3 {
+    background-color: red;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+}
+.color4 {
+    background-color: orange;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+}
+.color5 {
+    background-color: lightpink;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+}
+
